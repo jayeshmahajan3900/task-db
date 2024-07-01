@@ -6,7 +6,7 @@ const app = express();
 
 // Set CORS options
 var corsOptions = {
-  origin: "https://66818b6f59415715add69c58--enchanting-sfogliatella-01511c.netlify.app", // Updated to your Netlify URL
+  origin: "https://668220152d3c73c1057b66d3--chic-baklava-db6a7b.netlify.app/", // Updated to your Netlify URL
 };
 
 app.use(cors(corsOptions));
